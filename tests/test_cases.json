@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Definition & Scope",
+    "query": "What is the core definition of Agentic AI as outlined in the eBook?",
+    "expected_behavior": "Must define Agentic AI as systems capable of autonomous decision-making and action in pursuit of specific objectives (Page 18)."
+  },
+  {
+    "category": "Architecture & Paradigms",
+    "query": "What are the main architectural components required to build agentic systems?",
+    "expected_behavior": "Must mention perception, reasoning, planning, learning, and execution or structural multi-agent layers."
+  },
+  {
+    "category": "Use Cases",
+    "query": "What real-world industry use cases for Agentic AI are discussed in the eBook?",
+    "expected_behavior": "Must cite industries such as manufacturing, retail, healthcare, construction, or pharmaceuticals."
+  },
+  {
+    "category": "Comparison",
+    "query": "How does Agentic AI differ from traditional generative AI chatbots according to the text?",
+    "expected_behavior": "Must contrast autonomous proactive action/decision-making with passive content generation or rule-following."
+  },
+  {
+    "category": "Challenges & Considerations",
+    "query": "What key challenges or limitations of Agentic AI are mentioned in the document?",
+    "expected_behavior": "Must outline challenges such as complex system design, interoperability, data security, conflict resolution, scalability, or orchestration."
+  },
+  {
+    "category": "Out-of-Scope Test (Groundedness Check)",
+    "query": "What is the capital of France?",
+    "expected_behavior": "Refuse to answer or state that information is not available in the eBook context."
+  }
+]
